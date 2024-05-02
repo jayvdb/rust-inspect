@@ -1,5 +1,4 @@
-[project]
-
+[package]
 name = "inspect"
 version = "0.1.2"
 authors = ["reem"]
